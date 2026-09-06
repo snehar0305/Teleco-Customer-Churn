@@ -1,0 +1,47 @@
+Feature,Importance
+num__tenure,0.13712283140884643
+num__TotalCharges,0.13703495885970607
+num__MonthlyCharges,0.12051704276333847
+cat__Contract_Month-to-month,0.07041066555077817
+cat__Contract_Two year,0.03944576888185698
+cat__OnlineSecurity_No,0.037673242383972114
+cat__PaymentMethod_Electronic check,0.026635891212231245
+cat__InternetService_Fiber optic,0.025991740653943374
+cat__TechSupport_No,0.025847147220449007
+cat__OnlineBackup_No,0.0199079984977088
+cat__gender_Female,0.016655444315002467
+cat__gender_Male,0.01652229302299744
+cat__Contract_One year,0.014997047337336202
+cat__PaperlessBilling_Yes,0.01422762749521721
+cat__PaperlessBilling_No,0.013904644899396084
+cat__Partner_No,0.013058034191979461
+cat__Partner_Yes,0.012943044334504916
+cat__PaymentMethod_Bank transfer (automatic),0.012846782551467439
+cat__MultipleLines_No,0.0125735693285975
+cat__DeviceProtection_No,0.01245333733577745
+cat__InternetService_DSL,0.012407491709981093
+cat__PaymentMethod_Credit card (automatic),0.01225840883085895
+cat__Dependents_No,0.011715649775583958
+cat__OnlineSecurity_Yes,0.011587237891491636
+cat__DeviceProtection_Yes,0.011502614765836533
+cat__MultipleLines_Yes,0.011485497690888257
+cat__Dependents_Yes,0.011448655153859812
+cat__OnlineBackup_Yes,0.011304702011678961
+cat__SeniorCitizen_1,0.011291922268187156
+cat__SeniorCitizen_0,0.01111444740038793
+cat__StreamingTV_Yes,0.010948569607283186
+cat__StreamingMovies_Yes,0.01056176250146581
+cat__StreamingMovies_No,0.010472234063622108
+cat__PaymentMethod_Mailed check,0.010414149567478275
+cat__TechSupport_Yes,0.010126158050456593
+cat__StreamingTV_No,0.010117084026618303
+cat__DeviceProtection_No internet service,0.006203117666827644
+cat__TechSupport_No internet service,0.005349001161352998
+cat__InternetService_No,0.005245082715408589
+cat__StreamingTV_No internet service,0.0043209732041789555
+cat__StreamingMovies_No internet service,0.003896758502705634
+cat__PhoneService_No,0.003233422776157582
+cat__OnlineBackup_No internet service,0.0032161855428567082
+cat__MultipleLines_No phone service,0.0030164522363957526
+cat__PhoneService_Yes,0.0030156517096681977
+cat__OnlineSecurity_No internet service,0.0029776569236624967
